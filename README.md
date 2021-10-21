@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev8MX
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning AndroidStudio,JAVA,1C.
+- 🌱 I’m currently learning AndroidStudio, JAVA, 1C.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me ...
 
